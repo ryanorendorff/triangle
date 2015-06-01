@@ -1,0 +1,10 @@
+_minted-triangle
+craigslist.triangle
+main.hs
+template.tex
+test.triangle
+*.aux
+*.log
+*.out
+*.tex
+*.zip
