@@ -328,7 +328,7 @@ the mappend `(<>)` operator instead of `(+)`.
 < maximumPathMonoid $ sumT t     -- Sum {getSum = 27}
 < maximumPathMonoid $ productT t -- Product {getProduct = 1890}
 
-(There is one algebraic flaw in this argument, do you know what it is?)
+(There is a flaw in this argument, do you know what it is?)
 
 Also of interest is finding the route associated with this maximum path.
 The simplest way to do this is to perform the calculation inside the
