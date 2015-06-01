@@ -31,8 +31,6 @@ to the bottom, where the sum of the nodes along the way is the maximum
 of any possible path taken. This is a tad confusing, so let's consider
 calculate a discrete example. Let's look at the following triangle.
 
-`s -> b => c >>= d`
-
 > type Triangle = [[Int]]
 >
 > readTriangle :: String -> Triangle
